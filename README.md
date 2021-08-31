@@ -54,6 +54,8 @@ All submitted seed ideas must:
  
 # Use [This Template](Template.md) to plant your seed 
 
+We've also got instructions in the template.
+
 Posts are in markdown (.md) format, just like READMEs on Github. 
 
 All submissions to this repo are released under the MIT license  

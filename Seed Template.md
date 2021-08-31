@@ -1,7 +1,7 @@
 ```javascript
 name: Meta Eden Example
 version: 1
-description: An example seed to be planted in the Meta Eden repo .
+description: An example seed to be planted in the Meta Eden repo.
 author(s): Douglas Butner (Telegram: godsolislove)
 ```
 
@@ -15,12 +15,14 @@ Feel free to use these headings in your own repo, or create your own.
 
 # Actionable Steps
 
+Fork this repo to edit another's seed + start your own, or
+
 - Click "raw" to copy this file's markdown text  
 - Paste it into your text editor  
-- Make your Changes  
-- Fork Repo to your account  
-- Add doc to your repo  
-- Submit Pull Request to [eoscommunity/meta-eden](https://github.com/eoscommunity/meta-eden) repo
+- Make your changes (create your seed) 
+- Fork eoscommunity/meta-eden Repo to your account  
+- Add .md document to your copy of meta-eden repo containing your seed  
+- Submit Pull Request to [eoscommunity/meta-eden](https://github.com/eoscommunity/meta-eden)'s main branch to finalize  
 
 # Timeline
 
