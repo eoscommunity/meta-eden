@@ -56,15 +56,4 @@ All submitted seed ideas must:
 
 Posts are in markdown (.md) format, just like READMEs on Github. 
 
-Paste this 
-```javascript
-```javascript
-name: 
-version: 
-description: 
-author(s): 
-```
-```
-
-
 All submissions to this repo are released under the MIT license  
