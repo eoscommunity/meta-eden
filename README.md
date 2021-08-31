@@ -5,6 +5,7 @@ We invite you to share your thoughts as well as your positive attention, collabo
 
 *This isn't the place for core code edits, nor is it the place for explanatory material, nor discourse outside of opening issues.*  
 
+> Read the original [Meta Eden Proposal](https://forums.eoscommunity.org/t/smart-start-proposal-by-douglas-butner-of-cxc-world-eden-mock-election-2/4024?u=dougbutner)
 
 ## How it Works
 
