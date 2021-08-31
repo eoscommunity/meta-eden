@@ -52,7 +52,7 @@ All submitted seed ideas must:
 - Contain a mini-changelog, with 'added' 'changed' 'removed' 'fixed' (this is not required on first submission, but is for PRs)
 - Be finalized with a PR to the [eoscommunity/meta-eden](https://github.com/eoscommunity/meta-eden) repository 
  
-# Use [This Template](Template.md) to plant your seed 
+# Use [This Template](Seed Template.md) to plant your seed 
 
 We've also got instructions in the template.
 
