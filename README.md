@@ -28,6 +28,8 @@ If you have suggestions to improve this repo, *please open an issue.*
 - Increasing Membership
 - Marketing + Outreach 
 - Funding Eden 
+- Operation
+- Dispute Resolution
 - Proposals (Structure, Presentation, etc)
 
 ## EOS 
