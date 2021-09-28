@@ -30,6 +30,7 @@ If you have suggestions to improve this repo, *please open an issue.*
 - Funding Eden 
 - Operation
 - Dispute Resolution
+- Bylaws
 - Proposals (Structure, Presentation, etc)
 
 ## EOS 
