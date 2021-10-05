@@ -51,14 +51,19 @@ All submitted seed ideas must:
 - Have a short, 1-3 sentence description 
 - Have author(s) listed with some contact information
 - Be complete ideas, actionable as written  
-- Everything must be in English
+- Everything except names and places must be in English
 - Contain a mini-changelog, with 'added' 'changed' 'removed' 'fixed' (this is not required on first submission, but is for PRs)
 - Be finalized with a PR to the [eoscommunity/meta-eden](https://github.com/eoscommunity/meta-eden) repository 
  
 # Use [This Template](Seed%20Template.md) to plant your seed 
 
-We've also got instructions in the template.
+We've also got instructions in the [template](Seed%20Template.md).
 
-Posts are in markdown (.md) format, just like READMEs on Github. 
+
+# Contributor Rewards
+
+To encourage participation, this repo's creator has secured funding for contributors via an Eden proposal. To collect the reward, your seed (original idea) must be accepted via pull request, and you then must message @godsolislove on telegram to collect the reward. There is no limit to how many seeds you can submit. 
+
+**5 EOS - 2 prizes available**
 
 All submissions to this repo are released under the MIT license  
