@@ -64,6 +64,11 @@ We've also got instructions in the [template](Seed%20Template.md).
 
 To encourage participation, this repo's creator has secured funding for contributors via an Eden proposal. To collect the reward, your seed (original idea) must be accepted via pull request, and you then must message @godsolislove on telegram to collect the reward. There is no limit to how many seeds you can submit. 
 
-**5 EOS - 2 prizes available**
+## Funding Received 
+10 EOS from Eden Mock Election #2
+10 EOS from godsolislove 
+
+**10 EOS - 2 Awards available**
+
 
 All submissions to this repo are released under the MIT license  
