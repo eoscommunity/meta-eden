@@ -1,9 +1,8 @@
-```javascript
 name: Meta Eden Example
 version: 1
 description: An example seed to be planted in the Meta Eden repo.
 author(s): Douglas Butner (Telegram: godsolislove)
-```
+
 
 # Abstract
 
@@ -23,6 +22,7 @@ Fork this repo to edit another's seed + start your own, or
 - Fork eoscommunity/meta-eden Repo to your account  
 - Add .md document to your copy of meta-eden repo containing your seed  
 - Submit Pull Request to [eoscommunity/meta-eden](https://github.com/eoscommunity/meta-eden)'s main branch to finalize  
+- Consider using [0.0.4] - 2014-08-09 date version or similar in your change log on updates
 
 # Timeline
 
@@ -33,3 +33,12 @@ Fork this repo to edit another's seed + start your own, or
 
 - How many seeds are posted in the repo
 - How many seeds are put into action
+
+
+# Mini changelog
+
+## [0.0.4] - 2014-08-09
+### Added - Date/version 
+### Removed 
+### Changed
+### Fixes
