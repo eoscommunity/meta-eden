@@ -1,7 +1,7 @@
 # Welcome to Meta Eden
-Meta Eden is a place where you're free to share well-constructed ideas, aptly called 'seeds', related to Eden and EOS.  
+Meta Eden is a place where you're free to share well-constructed ideas, aptly called 'seeds', related to [Eden](https://genesis.eden.eoscommunity.org/) and EOS, EOSIO and [Mandel](https://github.com/eosnetworkfoundation/mandel).  
 
-We invite you to share your thoughts as well as your positive attention, collaborate and expand upon other's ideas via opening issues and pull requests when appropriate. Seeds you plant here should contain all information for the idea to grow into reality.  
+We invite you to freely share your thoughts as well as your positive attention, collaborate and expand upon other's ideas via opening issues and pull requests when appropriate. Seeds you plant here should contain all information for the idea to grow into reality.  
 
 *This isn't the place for core code edits, nor is it the place for explanatory material, nor discourse outside of opening issues.*  
 
@@ -36,7 +36,9 @@ If you have suggestions to improve this repo, *please open an issue.*
 ## EOS 
 
 - Adoption + Expansion 
-- Inflationary + Deflationary models 
+- Inflation + Deflation
+- Resources + Congestion 
+- Namebids
 - Infrastructure 
 - Developer Tools 
 - Marketing + Outreach 
@@ -71,4 +73,11 @@ To encourage participation, this repo's creator has secured funding for contribu
 **10 EOS - 2 Awards available**
 
 
-All submissions to this repo are released under the MIT license  
+# Additional Resources 
+
+[Ideas for EOSIO](https://github.com/cc32d9/cc32d9_ideas_for_EOSIO) by [cc32d9](https://github.com/cc32d9/)
+
+[Mandel Repo](https://github.com/eosnetworkfoundation/mandel)
+
+
+> All submissions to this repo are released under the MIT license  
