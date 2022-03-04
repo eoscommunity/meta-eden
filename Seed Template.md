@@ -14,7 +14,7 @@ Feel free to use these headings in your own repo, or create your own.
 
 # Actionable Steps
 
-Fork this repo to edit another's seed + start your own, or
+Fork this repo to plant your own ideas
 
 - Click "raw" to copy this file's markdown text  
 - Paste it into your text editor  
@@ -22,7 +22,7 @@ Fork this repo to edit another's seed + start your own, or
 - Fork eoscommunity/meta-eden Repo to your account  
 - Add .md document to your copy of meta-eden repo containing your seed  
 - Submit Pull Request to [eoscommunity/meta-eden](https://github.com/eoscommunity/meta-eden)'s main branch to finalize  
-- Consider using [0.0.4] - 2014-08-09 date version or similar in your change log on updates
+- Consider using [1] - 2014-08-09 date version or similar in your change log on updates
 
 # Timeline
 
@@ -37,8 +37,8 @@ Fork this repo to edit another's seed + start your own, or
 
 # Mini changelog
 
-## [0.0.4] - 2014-08-09
-### Added - Date/version 
+## Version 1 - 2014-08-09
+### Added 
 ### Removed 
 ### Changed
-### Fixes
+### Fixed
