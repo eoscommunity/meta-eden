@@ -1,7 +1,7 @@
-name: Fractally Meeting Primitives 
-version: 1
-description: JSON-formatted proposal format suggestion
-author(s): Douglas Butner (Telegram: godsolislove, [linktr.ee/iammonlove](https://linktr.ee/iammonlove))
+name: Fractally Meeting Primitives  
+version: 1  
+description: JSON-formatted proposal format suggestion  
+author(s): Douglas Butner (Telegram: godsolislove, [linktr.ee/iammonlove](https://linktr.ee/iammonlove))  
 
 
 # Abstract
