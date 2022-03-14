@@ -37,29 +37,29 @@ Attendees object can be made with or without a human primitive. We will use a sa
 // Please send a pull request to improve this structure
 
 {
-  meeting: {
-    start: 71237498709425, // Timestamp of scheduled start time
-    consensus: 1 // Bool set to if concensus was reached in the group. 
-  }
-  attendees: {
-    [
-      human: { // This is an example "Human primitive"
-        name: "Legal Name F+L",
-        organizations: "Associated Organizations", // Should eventually,
-        contributions: "This is a 256/512 char summary of the work done that each person can submit ahead of time on gofractally.",
-        updated: 124387123 // Timestamp of last update to be sure user's contributions are this week
-      }, 
-      voted : [ // This can be an ordered array, associative array (JS) or object
-        "mypickrank1",
-        "mypickrank2",
-        "mypickrank3",
-        "mypickrank4",
-        "mypickrank5",
-        "mypickrank6"
-      ]
+meeting: {
+  start: 71237498709425, // Timestamp of scheduled start time
+  consensus: 1 // Bool set to if consensus was reached in the group. 
+}
+attendees: {
+  [
+    human: { // This is an example "Human primitive"
+      name: "Legal Name F+L",
+      organizations: "Associated Organizations", // Should eventually be improved
+      contributions: "This is a 256/512 char summary of the work done that each person can submit ahead of time on gofractally.",
+      updated: 124387123 // Timestamp of last update to be sure user's contributions are this week
+    }, 
+    voted : [ // This can be an ordered array, associative array (JS) or object
+      "mypickrank1",
+      "mypickrank2",
+      "mypickrank3",
+      "mypickrank4",
+      "mypickrank5",
+      "mypickrank6"
     ]
+  ]
 
-  }
+}
 } //END 
 ```
 
