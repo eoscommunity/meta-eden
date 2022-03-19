@@ -84,8 +84,10 @@ Route 1 (Quick, efficient, centralized)
 
 # Success Metrics
 
-- Shortening time to reach consensus with more information (Objective)
-
+- Shortening time to reach consensus (Objective)
+- More meeting information recorded + accessible (Objective)
+- Easier acces of data by developers (Objective + Subjective)
+- Better self-evaluation of informedness before meetings (Subjective)
 
 
 # Mini changelog
