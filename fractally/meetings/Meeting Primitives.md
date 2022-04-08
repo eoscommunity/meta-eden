@@ -1,6 +1,6 @@
 name: Fractally Meeting Primitives  
 version: 1  
-description: JSON-formatted proposal format suggestion  
+description: JSON-formatted meeting format suggestion  
 author(s): Douglas Butner (Telegram: godsolislove, [linktr.ee/iammonlove](https://linktr.ee/iammonlove))  
 
 
@@ -84,13 +84,15 @@ Route 1 (Quick, efficient, centralized)
 
 # Success Metrics
 
-- Shortening time to reach consensus with more information (Objective)
-
+- Shortening time to reach consensus (Objective)
+- More meeting information recorded + accessible (Objective)
+- Easier acces of data by developers (Objective + Subjective)
+- Better self-evaluation of informedness before meetings (Subjective)
 
 
 # Mini changelog
 
-## Version 1 - 2014-08-09
+## Version 1 - 2022-03-13
 ### Added 
 Initial Commit
 ### Removed 

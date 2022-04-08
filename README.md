@@ -1,5 +1,5 @@
 # Welcome to Meta Eden
-Meta Eden is a place where you're free to share well-constructed ideas, aptly called 'seeds', related to [Eden](https://genesis.eden.eoscommunity.org/) and EOS, EOSIO and [Mandel](https://github.com/eosnetworkfoundation/mandel).  
+Meta Eden is a place where you're free to share well-constructed ideas, aptly called 'seeds', related to [Eden](https://genesis.eden.eoscommunity.org/) and EOS, [Fractally](https://fractally.org), EOSIO and [Mandel](https://github.com/eosnetworkfoundation/mandel).  
 
 We invite you to freely share your thoughts as well as your positive attention, collaborate and expand upon other's ideas via opening issues and pull requests when appropriate. Seeds you plant here should contain all information for the idea to grow into reality.  
 
@@ -43,6 +43,10 @@ If you have suggestions to improve this repo, *please open an issue.*
 - Developer Tools 
 - Marketing + Outreach 
 
+## Fractally 
+
+## Mandel
+
 # Required 
 
 All submitted seed ideas must: 
@@ -78,6 +82,10 @@ To encourage participation, this repo's creator has secured funding for contribu
 [Ideas for EOSIO](https://github.com/cc32d9/cc32d9_ideas_for_EOSIO) by [cc32d9](https://github.com/cc32d9/)
 
 [Mandel Repo](https://github.com/eosnetworkfoundation/mandel)
+
+[Fractally Repo](https://github.com/gofractally/fractally)
+
+[Eden Repo](https://github.com/gofractally/Eden)
 
 
 > All submissions to this repo are released under the MIT license  
