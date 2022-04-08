@@ -1,7 +1,11 @@
-# Welcome to Meta Eden
-Meta Eden is a place where you're free to share well-constructed ideas, aptly called 'seeds', related to [Eden](https://genesis.eden.eoscommunity.org/) and EOS, [Fractally](https://fractally.org), EOSIO and [Mandel](https://github.com/eosnetworkfoundation/mandel).  
+<p align="center">
+  <img width="240" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/8/81/Eos_logo.png">
+</p>
 
-We invite you to freely share your thoughts as well as your positive attention, collaborate and expand upon other's ideas via opening issues and pull requests when appropriate. Seeds you plant here should contain all information for the idea to grow into reality.  
+# Welcome to Lēden 🌳
+Lēden (formerly Meta Eden) is a place where you're free to share well-constructed ideas, aptly called 'seeds', related to [Eden](https://genesis.eden.eoscommunity.org/) and EOS, [Fractally](), EOSIO and [Mandel](https://github.com/eosnetworkfoundation/mandel).  
+
+We invite you to freely share your thoughts as well as lead others to discover, collaborate and expand upon your ideas via opening issues and pull requests. Seeds you plant here should contain all information for the idea to grow into reality.  
 
 *This isn't the place for core code edits, nor is it the place for explanatory material, nor discourse outside of opening issues.*  
 
@@ -21,6 +25,7 @@ If you have suggestions to improve this repo, *please open an issue.*
 
 
 # Topics
+
 
 ## Eden
 
@@ -43,11 +48,14 @@ If you have suggestions to improve this repo, *please open an issue.*
 - Developer Tools 
 - Marketing + Outreach 
 
-## Fractally 
+## Fractally
 
-## Mandel
+- Meetings
+  - [Fractally Meeting Primitive](fractally/meetings/meeting-primitives.md)
+- Proposals
+- New Fractals
 
-# Required 
+# Required ✅
 
 All submitted seed ideas must: 
 
@@ -68,24 +76,36 @@ We've also got instructions in the [template](Seed%20Template.md).
 
 # Contributor Rewards
 
-To encourage participation, this repo's creator has secured funding for contributors via an Eden proposal. To collect the reward, your seed (original idea) must be accepted via pull request, and you then must message @godsolislove on telegram to collect the reward. There is no limit to how many seeds you can submit. 
+To encourage participation, this repo's creator has secured funding for contributors via an Eden proposal. To collect the reward, your seed (original idea) must be accepted via pull request, and you then must contact Douglas on [telegram](https://t.me/godsolislove), [twitter](https://twitter.com/dougbutner) or [email](mailto:dougbutner@gmail.com) to collect the reward. There is no limit to how many seeds you can submit. 
 
 ## Funding Received 
 10 EOS from Eden Mock Election #2
 10 EOS from godsolislove 
 
-**10 EOS - 2 Awards available**
+Currently Available: 20 EOS
 
+# New Incentive  Model
+We're now focusing on rewarding collaboration 
+
+1. New proposals: Actionable and well-described proposals. **10 EOS**
+
+2. Contributing via an Issue or Pull request: Changes that make it into the final proposal will be rewarded **1 EOS** (Max 5 per proposal)
+
+3. Having your Repo contributed to will get you **1 EOS** (Max 5 EOS)
+
+> Each proposal will get 10-20 EOS total for contributors.
+
+# Contributor List
+> Make a proposal to show up here
+
+Douglas Butner (godsolislove@eos)
+- [Fractally Meeting Primitive](fractally/meetings/meeting-primitives.md)
 
 # Additional Resources 
 
 [Ideas for EOSIO](https://github.com/cc32d9/cc32d9_ideas_for_EOSIO) by [cc32d9](https://github.com/cc32d9/)
 
 [Mandel Repo](https://github.com/eosnetworkfoundation/mandel)
-
-[Fractally Repo](https://github.com/gofractally/fractally)
-
-[Eden Repo](https://github.com/gofractally/Eden)
 
 
 > All submissions to this repo are released under the MIT license  
