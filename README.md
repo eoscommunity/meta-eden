@@ -3,7 +3,7 @@
 </p>
 
 # Welcome to Lēden 🌳
-Lēden (formerly Meta Eden) is a place where you're free to share well-constructed ideas, aptly called 'seeds', related to [Eden](https://genesis.eden.eoscommunity.org/) and EOS, [Fractally](), EOSIO and [Mandel](https://github.com/eosnetworkfoundation/mandel).  
+Lēden (formerly Meta Eden) is a place where you're free to share well-constructed ideas, aptly called 'seeds', related to [Eden](https://genesis.eden.eoscommunity.org/) and EOS, [Fractally](https://fractally.com/), EOSIO and [Mandel](https://github.com/eosnetworkfoundation/mandel).  
 
 We invite you to freely share your thoughts as well as lead others to discover, collaborate and expand upon your ideas via opening issues and pull requests. Seeds you plant here should contain all information for the idea to grow into reality.  
 
@@ -74,17 +74,17 @@ All submitted seed ideas must:
 We've also got instructions in the [template](Seed%20Template.md).
 
 
-# Contributor Rewards
+# Contributor Rewards 👨‍💻
 
 To encourage participation, this repo's creator has secured funding for contributors via an Eden proposal. To collect the reward, your seed (original idea) must be accepted via pull request, and you then must contact Douglas on [telegram](https://t.me/godsolislove), [twitter](https://twitter.com/dougbutner) or [email](mailto:dougbutner@gmail.com) to collect the reward. There is no limit to how many seeds you can submit. 
 
-## Funding Received 
+## Funding Received 💰
 10 EOS from Eden Mock Election #2
 10 EOS from godsolislove 
 
 Currently Available: 20 EOS
 
-# New Incentive  Model
+# New Incentive Model 💸
 We're now focusing on rewarding collaboration 
 
 1. New proposals: Actionable and well-described proposals. **10 EOS**
@@ -95,17 +95,26 @@ We're now focusing on rewarding collaboration
 
 > Each proposal will get 10-20 EOS total for contributors.
 
-# Contributor List
-> Make a proposal to show up here
+# Submit on Hive 🐝
+
+*Not techy?* Submit your seed on Hive blockchain using the same [seed template](Seed%20Template.md). Both use Markdown. We will share your work here, and give you credit in the contributor list. Rewarded contributions (not including initial post 10 EOS) must then be done on Github, though you are welcome to comment ideas on the Hive post as well. I use [Peakd.com](https://peakd.com) to compose + save my drafts and templates for Hive posts.
+
+# Contributor List ‍👷
+> Make a proposal to show up here 
 
 Douglas Butner (godsolislove@eos)
-- [Fractally Meeting Primitive](fractally/meetings/meeting-primitives.md)
+- [Fractally Meeting Primitive](fractally/meetings/meeting-primitives.md) 
 
 # Additional Resources 
 
-[Ideas for EOSIO](https://github.com/cc32d9/cc32d9_ideas_for_EOSIO) by [cc32d9](https://github.com/cc32d9/)
+[EOSIO EEP repo](https://github.com/EOSIO/EEPs/) 
 
-[Mandel Repo](https://github.com/eosnetworkfoundation/mandel)
+[Ideas for EOSIO](https://github.com/cc32d9/cc32d9_ideas_for_EOSIO) by [cc32d9](https://github.com/cc32d9/) 
 
+[Mandel Repo](https://github.com/eosnetworkfoundation/mandel) 
+
+[Eden Community](https://gofractally.com/feed) 
+
+[Fractally Community](https://gofractally.com/feed) 
 
 > All submissions to this repo are released under the MIT license  
