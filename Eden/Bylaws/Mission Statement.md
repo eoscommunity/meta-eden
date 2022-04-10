@@ -33,4 +33,4 @@ We will agree upon a mission statement and move forward with the same goal in mi
 # Success Metrics
 
 - Community members know why they are in the meeting
-- Community members understand what metrics they should use when determining who to vote fir 
+- Community members understand what metrics they should use when determining who to vote for 
