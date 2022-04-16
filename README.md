@@ -3,7 +3,7 @@
 </p>
 
 # Welcome to Lēden 🌳
-Lēden (formerly Meta Eden) is a place where you're free to share well-constructed ideas, aptly called 'seeds', related to [Eden](https://genesis.eden.eoscommunity.org/) and EOS, [Fractally](https://fractally.com/), EOSIO and [Mandel](https://github.com/eosnetworkfoundation/mandel).  
+Lēden (aka Meta Eden) is a place where you're free to share well-constructed ideas, aptly called 'seeds', related to [Eden](https://genesis.eden.eoscommunity.org/) and EOS, [Fractally](https://fractally.com/), EOSIO and [Mandel](https://github.com/eosnetworkfoundation/mandel).  
 
 We invite you to freely share your thoughts as well as lead others to discover, collaborate and expand upon your ideas via opening issues and pull requests. Seeds you plant here should contain all information for the idea to grow into reality.  
 
@@ -97,13 +97,16 @@ We're now focusing on rewarding collaboration
 
 # Submit on Hive 🐝
 
-*Not techy?* Submit your seed on Hive blockchain using the same [seed template](Seed%20Template.md). Both use Markdown. We will share your work here, and give you credit in the contributor list. Rewarded contributions (not including initial post 10 EOS) must then be done on Github, though you are welcome to comment ideas on the Hive post as well. I use [Peakd.com](https://peakd.com) to compose + save my drafts and templates for Hive posts.
+*Not techy?* Submit your seed on Hive blockchain using the same [seed template](Seed%20Template.md) and the first-tag #leden. Both use Markdown. We will share your work here, and give you credit in the contributor list. Rewarded contributions (not including initial post 10 EOS) must then be done on Github, though you are welcome to comment ideas on the Hive post as well. I use [Peakd.com](https://peakd.com) to compose + save my drafts and templates for Hive posts.
 
 # Contributor List ‍👷
 > Make a proposal to show up here 
 
 Douglas Butner (godsolislove@eos)
 - [Fractally Meeting Primitive](fractally/meetings/meeting-primitives.md) 
+
+[Dr Doug Wu](https://twitter.com/WItsWAlkErWOo)
+- [Fractally Meeting Primitive (PR)](fractally/meetings/meeting-primitives.md) 
 
 # Additional Resources 
 
