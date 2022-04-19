@@ -106,7 +106,7 @@ Douglas Butner (godsolislove@eos)
 - [Fractally Meeting Primitive](fractally/meetings/meeting-primitives.md) 
 
 [Dr Doug Wu](https://twitter.com/WItsWAlkErWOo)
-- [Fractally Meeting Primitive (PR)](fractally/meetings/meeting-primitives.md) 
+- [Fractally Meeting Primitive (PR)](fractally/meetings/meeting-primitives.md) [1 EOS paid]
 
 # Additional Resources 
 
